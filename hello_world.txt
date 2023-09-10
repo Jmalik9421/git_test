@@ -1,2 +1,2 @@
 hello world, iam learning git.
-I have just changed my default Git commit message editor from Vim to VS Code
+I have just changed my default Git commit message editor from Vim to VS Code.
